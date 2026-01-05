@@ -1,0 +1,16 @@
+# Python & AI/ML Internship – 12 Weeks
+
+This repository contains weekly work completed as part of the
+Python Development and AI/ML Internship Program.
+
+## Structure
+- Weekly folders contain topic-wise code, notes, and deliverables
+- Logbooks are maintained weekly as per SOP guidelines
+
+## Tools & Technologies
+- Python
+- VS Code
+- Git & GitHub
+
+## Intern
+Name: Kaushal Bhavsar

@@ -1,0 +1,10 @@
+# Week 1 – Python Basics
+
+## Topics Covered
+- Python installation
+- Variables and data types
+- Input and output
+
+## Learning Outcome
+- Successfully set up Python environment
+- Executed basic Python programs
