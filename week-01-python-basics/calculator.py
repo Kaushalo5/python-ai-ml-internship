@@ -4,4 +4,5 @@ print("The sum is: ", a+b)
 print("The difference is: ", a-b)
 print("The product is: ", a*b)
 print("The division is: ", a/b)
+print("The modulus is: ", a%b)
 
