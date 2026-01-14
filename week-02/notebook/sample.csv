@@ -1,0 +1,12 @@
+id,name,age,salary,department
+1,Amit,25,45000,IT
+2,Neha,28,52000,HR
+3,Raj,22,,IT
+4,Simran,30,61000,Finance
+5,Aakash,27,48000,IT
+6,Pooja,26,50000,HR
+7,Rohan,29,56000,Finance
+8,Kajal,,47000,IT
+9,Vivek,24,43000,Marketing
+10,Sneha,31,65000,Finance
+10,Sneha,31,65000,Finance
